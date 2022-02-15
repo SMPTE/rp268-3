@@ -6,7 +6,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [LICENSE.md](./LICENSE.md) 
 
 This Recommended Practice specifies test images and a procedure to check correct operation of ST 268-2 DPX reader implementations.
 
-The software elements for this document are located in the following repository: https://github.com/SMPTE/rp268-3-a
+The non-prose elements (software, images, reference files) for this document are located in the following repository: https://github.com/SMPTE/rp268-3-a
 
 ## Background
 
